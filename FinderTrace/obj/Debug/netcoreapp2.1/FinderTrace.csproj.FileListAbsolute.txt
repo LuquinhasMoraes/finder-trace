@@ -1,0 +1,14 @@
+C:\Users\Lucas\Documents\My Course\FinderTrace\FinderTrace\bin\Debug\netcoreapp2.1\FinderTrace.deps.json
+C:\Users\Lucas\Documents\My Course\FinderTrace\FinderTrace\bin\Debug\netcoreapp2.1\FinderTrace.runtimeconfig.json
+C:\Users\Lucas\Documents\My Course\FinderTrace\FinderTrace\bin\Debug\netcoreapp2.1\FinderTrace.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\My Course\FinderTrace\FinderTrace\bin\Debug\netcoreapp2.1\FinderTrace.dll
+C:\Users\Lucas\Documents\My Course\FinderTrace\FinderTrace\obj\Debug\netcoreapp2.1\FinderTrace.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\My Course\FinderTrace\FinderTrace\obj\Debug\netcoreapp2.1\FinderTrace.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\My Course\FinderTrace\FinderTrace\obj\Debug\netcoreapp2.1\FinderTrace.RazorAssemblyInfo.cache
+C:\Users\Lucas\Documents\My Course\FinderTrace\FinderTrace\obj\Debug\netcoreapp2.1\FinderTrace.RazorAssemblyInfo.cs
+C:\Users\Lucas\Documents\My Course\FinderTrace\FinderTrace\obj\Debug\netcoreapp2.1\FinderTrace.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\My Course\FinderTrace\FinderTrace\obj\Debug\netcoreapp2.1\FinderTrace.AssemblyInfo.cs
+C:\Users\Lucas\Documents\My Course\FinderTrace\FinderTrace\obj\Debug\netcoreapp2.1\FinderTrace.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas\Documents\My Course\FinderTrace\FinderTrace\bin\Debug\netcoreapp2.1\FinderTrace.pdb
+C:\Users\Lucas\Documents\My Course\FinderTrace\FinderTrace\obj\Debug\netcoreapp2.1\FinderTrace.dll
+C:\Users\Lucas\Documents\My Course\FinderTrace\FinderTrace\obj\Debug\netcoreapp2.1\FinderTrace.pdb
